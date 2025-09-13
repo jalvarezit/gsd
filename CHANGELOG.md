@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-09-13)
+
+
+### Features
+
+* first release ([a6cf6c4](https://github.com/jalvarezit/gsd/commit/a6cf6c47e0fe323e51737fb202671605996bc045))
+
 ## [1.0.4](https://github.com/jalvarezit/gsd/compare/v1.0.3...v1.0.4) (2025-09-13)
 
 
