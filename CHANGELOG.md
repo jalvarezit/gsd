@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/jalvarezit/gsd/compare/v1.0.1...v1.0.2) (2025-09-13)
+
+
+### Bug Fixes
+
+* foo ([83b00fa](https://github.com/jalvarezit/gsd/commit/83b00faadbed44705f28726d59510062b96a70a6))
+
 ## [1.0.1](https://github.com/jalvarezit/gsd/compare/v1.0.0...v1.0.1) (2025-09-13)
 
 
