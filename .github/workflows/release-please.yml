@@ -33,6 +33,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+      - name: Check out release tag
+        run: |
+          git fetch --tags
+          git checkout ${{ needs.release-please.outputs.tag_name }}
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
